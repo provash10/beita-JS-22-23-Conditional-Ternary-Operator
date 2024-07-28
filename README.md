@@ -1,0 +1,1 @@
+# beita-JS-22-Conditional-Ternary-Operator
